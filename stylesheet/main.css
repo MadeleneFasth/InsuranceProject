@@ -384,17 +384,9 @@ img {
   margin: 1rem;
 }
 
-/* 
-font-weight headings: 900;
-font-weight paragraphs: 100;
 
-font-size h1: 
-font-size h2:
-font-size h3:
-font-size p, button: 1rem
-*/
 .map {
-  background-image: url(/img/map.png);
+  background-image: url(https://github.com/MadeleneFasth/MadelenFasth/blob/main/img/map.png?raw=true);
   min-height: 70vh;
   background-size: cover;
   background-position: center;
